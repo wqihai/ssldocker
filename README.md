@@ -14,8 +14,8 @@ SSLDocker is a tiny multiple host reverse proxy with automatic HTTPS for multipl
   "Certs": "certs",
   "ProxyItems": [
     {"Host": "app1.com", "Target": "http://localhost:8082"},
-    {"Host": "app1.com", "Target": "http://localhost:8083"},
-    {"Host": "app2.com", "Target": "http://localhost:8084"}
+    {"Host": "app2.com", "Target": "http://localhost:8083"},
+    {"Host": "app3.com", "Target": "http://localhost:8084"}
   ]
 }
 ```
