@@ -8,6 +8,7 @@ SSLDocker is a tiny multiple host reverse proxy with automatic HTTPS for multipl
 
 ```
 {
+  "Email": "yourmail@domain.com",
   "GzipOn": true,
   "Http2https": true,
   "MaxHeader": 10,
