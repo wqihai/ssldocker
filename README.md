@@ -35,3 +35,7 @@ Type your site's address to see it in action. Live sites are redirected to HTTPS
 ## What did SSLDocker do for you ?
 
 See official website [https://ssldocker.com/](https://ssldocker.com/)
+
+### Changes
+
+- Support for TLS 1.3
